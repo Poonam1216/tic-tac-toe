@@ -1,0 +1,29 @@
+#main{
+    text-align: center;
+}
+
+h1{
+    font-size: larger;
+    color: rgb(248, 10, 10);
+}
+
+#a1, #a2, #a3, #a4, #a5, #a6, #a7, #a8, #a9{
+    text-align: center;
+    height: 80px;
+    width: 120px;
+    border: 1px solid red;
+    margin:auto;
+    background-color: rgb(249, 230, 230);
+}
+
+#btn{
+    cursor: pointer;
+    border-radius: 5px;
+    color: red;
+    margin: auto;
+}
+
+#turn{
+    color: green;
+    font-size: 30px;
+}
